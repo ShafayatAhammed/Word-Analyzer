@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Word-Analyzer/static/css/main.6d03214c.css",
+    "main.js": "/Word-Analyzer/static/js/main.b6366707.js",
+    "static/js/787.fade2e9e.chunk.js": "/Word-Analyzer/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/Word-Analyzer/index.html",
+    "static/media/clipboard-plus-fill.svg": "/Word-Analyzer/static/media/clipboard-plus-fill.cddc229f7cde60e936c9a163644f6824.svg",
+    "static/media/text-center.svg": "/Word-Analyzer/static/media/text-center.330195bee72052a3c6c65f10ee8f24de.svg",
+    "static/media/text-right.svg": "/Word-Analyzer/static/media/text-right.53c574ccaf409e14c6aaaa0394e6195c.svg",
+    "static/media/text-left.svg": "/Word-Analyzer/static/media/text-left.64c8d864fa299f3a5836454cb476ff61.svg",
+    "main.6d03214c.css.map": "/Word-Analyzer/static/css/main.6d03214c.css.map",
+    "main.b6366707.js.map": "/Word-Analyzer/static/js/main.b6366707.js.map",
+    "787.fade2e9e.chunk.js.map": "/Word-Analyzer/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d03214c.css",
+    "static/js/main.b6366707.js"
+  ]
+}
